@@ -1,16 +1,19 @@
-# Eric Wong — LinkedIn Post (2026-10-17) — Approved for publish
+# Eric Wong — LinkedIn Post (2026-10-17) — Approved for publish (v2 update)
 
 **Status**: Ready to publish on LinkedIn
 **Author**: Eric Wong
 **Headline** (as on LinkedIn): "Finance Director · Digital Transformation · Group..."
+**Update from v1**: Opening now flows: (days ago) saw Bhusri interview → reminded of (6 months ago) founder conversation
 
 ---
 
 ## Post text (verbatim, ready to copy-paste)
 
-6 months ago I had a conversation with a founder about the future of ERP for finance.
+A few days ago I watched Workday CEO Aneel Bhusri's interview with Fortune. It reminded me of a conversation I had with a founder 6 months ago about the future of ERP for finance.
 
-The answer has arrived faster than either of us expected. The smartest AI companies in the world — Google's finance team, Anthropic's, and OpenAI's — all run Workday. The CEO of that AI-native accounting system, Aneel Bhusri, just told Fortune: within 5 years, AI will replace the work of junior auditors. Junior auditors don't yet know they should be worried.
+We didn't have specific names back then. The conversation was about which AI-native accounting platform would break through the market.
+
+The answer has arrived faster than either of us expected. The smartest AI companies in the world — Google's finance team, Anthropic's, and OpenAI's — all run Workday. Bhusri just told Fortune: within 5 years, AI will replace the work of junior auditors. Junior auditors don't yet know they should be worried.
 
 I believe this is a wake-up call for every accounting professional.
 
@@ -35,21 +38,22 @@ What's one AI tool you've actually used this week in finance? Curious which ones
 
 | Section | Purpose | Source |
 |---------|---------|--------|
-| Opening hook | 6-month retrospective — conversation 6mo ago vs reality now | Eric's original |
-| Section 1 (paragraphs 2-3) | Validation: 3 AI labs all use Workday + Bhusri 5-year prediction | Eric's original + Fortune interview 2026-10-15 |
-| Section 1 (paragraph 4) | "I believe this is a wake-up call" | Eric's original |
-| Section 1 (paragraph 5) | Advice to finance pros + notebook→PC analogy | Eric's added |
+| Opening hook | Few days ago saw Bhusri Fortune interview → reminded 6mo conversation | Eric's added v2 |
+| Mid 1 | "We didn't have specific names... AI-native accounting platform" | Eric's correction |
+| Mid 2 | 3 AI labs all use Workday + Bhusri 5-year prediction | Fortune interview 2026-10-15 |
+| Mid 3 | "I believe this is a wake-up call" | Eric's original |
+| Mid 4 | Advice to finance pros + notebook→PC analogy | Eric's original |
 | Section 2 | 1 person can't change culture + human nature lazy | Eric's original |
 | Closing | Engagement question | Baseline style |
 
 ## Word count
-~340 words (vs baseline 6mo-ago post ~200 words, slightly longer for 6-month retrospective + 2 ideas)
+~370 words
 
 ## Style match to baseline
 - ✅ First-person reflective
-- ✅ 2 main ideas (vs 3 ideas in early draft that Eric said was too much)
+- ✅ 2 main ideas (ERP shift + 1 person can't change culture)
+- ✅ Temporal flow: 6 months ago conversation → few days ago trigger → now validation
 - ✅ Self-identification ("I tried to push AI in a real finance department this year")
-- ✅ → bullets in workflow section (skipped here, not needed)
 - ✅ No emoji
 - ✅ Engagement question at end
 - ✅ 6 hashtags
