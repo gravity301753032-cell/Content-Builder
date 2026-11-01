@@ -24,10 +24,17 @@
 ## Naming convention
 `{book}/{chapter}/{angle}.md` — for the AI × Accounting series, `ai-accounting-series/part{n}.md`
 
+## Published posts (canonical archive: `published/`)
+
+| File | Date | Status | Length |
+|---|---|---|---|
+| `published/linkedin-2025-04-eric-wong-ai-shifts.md` | 2025-04 | Published on LinkedIn (2 likes) | ~1,000 chars |
+| `published/linkedin-2026-10-17-eric-wong-ai-finance-6mo-retrospective.md` | 2026-10-17 | Drafted (v6), awaiting publication | 1,792 chars |
+
 ## Publication status
 - **Approved**: 4 projects (Bezos ch02 Princeton, voting-machine, regret-minimization, world-is-game-npc)
 - **Drafted**: 12 angles
-- **Published on LinkedIn**: 0 (all in draft / private staging)
+- **Published on LinkedIn**: 1 (the 2025-04 AI shifts post). The 2026-10-17 Workday/Bhusri post is drafted (v6) and awaiting publication.
 - **AI × Accounting series**: 5 parts drafted 2026-10-28, all awaiting Eric's review; none published
 
 ## Workflow
