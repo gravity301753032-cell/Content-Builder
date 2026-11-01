@@ -1,6 +1,6 @@
-# Eric Wong — LinkedIn Post (2026-10-17) — v6 (approved wording, ready to publish)
+# Eric Wong — LinkedIn Post (2026-10-17) — v6 (published)
 
-**Status**: Ready to publish on LinkedIn
+**Status**: Published on LinkedIn (2026-11-01)
 **Author**: Eric Wong
 **Headline** (as on LinkedIn): "Finance Director · Digital Transformation · Group..."
 **Version history**: v1 (3 shifts) → v2 (2 shifts, Eric cut section 3) → v3 (+advice + notebook analogy)
