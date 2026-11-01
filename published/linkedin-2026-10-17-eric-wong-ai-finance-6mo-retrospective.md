@@ -1,9 +1,24 @@
-# Eric Wong — LinkedIn Post (2026-10-17) — Approved for publish (v2 update)
+# Eric Wong — LinkedIn Post (2026-10-17) — v6 (approved wording, ready to publish)
 
 **Status**: Ready to publish on LinkedIn
 **Author**: Eric Wong
 **Headline** (as on LinkedIn): "Finance Director · Digital Transformation · Group..."
-**Update from v1**: Opening now flows: (days ago) saw Bhusri interview → reminded of (6 months ago) founder conversation
+**Version history**: v1 (3 shifts) → v2 (2 shifts, Eric cut section 3) → v3 (+advice + notebook analogy)
+→ v4 (+6-month retrospective) → v5 (temporal-flow opening, pushed) → **v6 (current: Eric's own
+wording for the change-resistance paragraph, source-anchored Workday claim, de-escalated framing)**
+
+**v6 changes vs v5**
+- "people are lazy by nature" → "people are reluctant to change … That is a capacity problem, not a character flaw." (Eric's wording, 2026-11-01)
+- "don't try to save your finance team from yourselves" → "don't expect one person to change a company's culture"
+- "Junior auditors don't yet know they should be worried." → "AI will take over a lot of the work junior auditors do today" (removed the "they don't know" judgment)
+- "I believe this is a wake-up call for every accounting professional." → "That is a real change, and worth taking seriously. It also means the professional advantage shifts to whoever moves first."
+- "The ones who wait will be the last ones holding paper." → removed (it contradicted Eric's own thesis that AI cannot change human nature)
+- Workday claim re-anchored to Bhusri's own analyst-call wording: "Anthropic, Google, and OpenAI all run Workday — Bhusri said so himself on an analyst call." (Bloomberg 2026-02-24)
+
+**Source notes**
+- Bhusri on the "junior auditors" prediction: Fortune interview, 2026-10-15 (transcript archived in `research/workday-ceo-bhusri-ai-displacement.md`)
+- "Anthropic, Google and OpenAI all run Workday": Bhusri on an analyst call, reported by Bloomberg 2026-02-24
+- Anthropic is a Workday customer (finance + people ops on Workday Financials and HCM): Workday–Anthropic partnership announcement
 
 ---
 
@@ -11,22 +26,21 @@
 
 A few days ago I watched Workday CEO Aneel Bhusri's interview with Fortune. It reminded me of a conversation I had with a founder 6 months ago about the future of ERP for finance.
 
-We didn't have specific names back then. The conversation was about which AI-native accounting platform would break through the market.
+We had no specific names back then — only the question of which AI-native accounting platform would break through the market.
 
-The answer has arrived faster than either of us expected. The smartest AI companies in the world — Google's finance team, Anthropic's, and OpenAI's — all run Workday. Bhusri just told Fortune: within 5 years, AI will replace the work of junior auditors. Junior auditors don't yet know they should be worried.
+The answer has arrived faster than either of us expected. Anthropic, Google, and OpenAI all run Workday — Bhusri said so himself on an analyst call. He told Fortune that within 5 years, AI will take over a lot of the work junior auditors do today.
 
-I believe this is a wake-up call for every accounting professional.
+That is a real change, and worth taking seriously. It also means the professional advantage shifts to whoever moves first.
 
-My advice: start learning AI tools now, and understand the most mainstream AI-native accounting and bookkeeping systems. Because one day — and it's coming faster than most people think — you won't be using inefficient bookkeeping tools anymore. It's the same shift we saw going from paper ledgers to computers. The professionals who learn the new tools early will write the next chapter of finance. The ones who wait will be the last ones holding paper.
+My advice: start learning AI tools now, and understand the most mainstream AI-native accounting and bookkeeping systems. Because one day — and it's coming faster than most people think — you won't be using inefficient bookkeeping tools anymore. It's the same shift we saw going from paper ledgers to computers. The professionals who learn the new tools early will write the next chapter of finance.
 
 One person cannot change a company's culture. Build the skills instead.
 
-I tried to push AI in a real finance department this year. The truth: people are lazy by nature. Office politics is real. Some things AI cannot change. No amount of tooling fixes human nature. The lesson: don't try to save your finance team from yourselves. Build the AI skills that make you the only person in the room who knows what's possible.
+I tried to push AI in a real finance department this year. The truth: people are reluctant to change. Their workload is already full, and without training and time to practise, nobody adopts a new tool on their own. That is a capacity problem, not a character flaw. Office politics is real, and no tooling fixes that. The lesson: don't expect one person to change a company's culture. Build the AI skills that make you the only person in the room who knows what's possible.
 
 What's one AI tool you've actually used this week in finance? Curious which ones are working for teams.
 
 #AI #Finance #CPA #FutureOfWork #AIinFinance #AIRevolution
-
 ---
 
 ## Hashtags
@@ -38,16 +52,18 @@ What's one AI tool you've actually used this week in finance? Curious which ones
 
 | Section | Purpose | Source |
 |---------|---------|--------|
-| Opening hook | Few days ago saw Bhusri Fortune interview → reminded 6mo conversation | Eric's added v2 |
-| Mid 1 | "We didn't have specific names... AI-native accounting platform" | Eric's correction |
-| Mid 2 | 3 AI labs all use Workday + Bhusri 5-year prediction | Fortune interview 2026-10-15 |
-| Mid 3 | "I believe this is a wake-up call" | Eric's original |
-| Mid 4 | Advice to finance pros + notebook→PC analogy | Eric's original |
-| Section 2 | 1 person can't change culture + human nature lazy | Eric's original |
+| Opening hook | Few days ago saw Bhusri interview → reminded 6mo founder conversation | Eric's v5 |
+| Setup | We had no specific names back then — which AI-native platform would break through | Eric's correction (no fabricated vendor names) |
+| Evidence 1 | Anthropic, Google, OpenAI all run Workday (Bhusri's own words, analyst call) | Bloomberg 2026-02-24 |
+| Evidence 2 | Within 5 years AI takes over much junior audit work | Fortune 2026-10-15 |
+| Reframe | Real change; advantage shifts to whoever moves first | v6 de-escalation |
+| Advice | Learn AI tools, understand mainstream AI-native systems; notebook→PC analogy | Eric's own |
+| Section 2 | One person cannot change a company's culture | Eric's original |
+| Section 2 body | People are reluctant to change — capacity problem, not character flaw | **Eric's v6 wording** |
 | Closing | Engagement question | Baseline style |
 
 ## Word count
-~370 words
+~306 words
 
 ## Style match to baseline
 - ✅ First-person reflective
@@ -57,4 +73,5 @@ What's one AI tool you've actually used this week in finance? Curious which ones
 - ✅ No emoji
 - ✅ Engagement question at end
 - ✅ 6 hashtags
-- ✅ Source-first: every claim anchored (Fortune interview, Google/Anthropic/OpenAI, 6mo conversation)
+- ✅ Source-first: every claim anchored and traceable (Bloomberg / Fortune / Workday–Anthropic release)
+- ✅ v6: no unsourced claims about individual colleagues; the resistance paragraph is diagnostic, not judgmental
